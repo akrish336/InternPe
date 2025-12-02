@@ -1,4 +1,4 @@
-# To-Do List by Arpit Raj
+# To-Do List by
 
 tasks = []
 

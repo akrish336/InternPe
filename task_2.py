@@ -1,5 +1,4 @@
-# Simple Calculator Program in Python
-# Made by Arpit Raj
+#  Aditya Krishna Pandey
 
 def calculator():
     print("Welcome to the Basic Calculator!")

@@ -1,4 +1,4 @@
-# To-Do List by
+# To-Do List by Aditya Krishna Pandey
 
 tasks = []
 

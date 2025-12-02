@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game using Python by arpit raj
+# Aditya Krishna Pandey
 
 import random
 

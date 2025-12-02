@@ -1,4 +1,4 @@
-# To-Do List by Aditya Krishna Pandey
+# Aditya Krishna Pandey
 
 contacts = {}
 

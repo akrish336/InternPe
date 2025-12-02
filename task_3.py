@@ -1,4 +1,4 @@
-# Password Generator Program in Python Created by Arpit  Raj during CodSoft Internship
+#Aditya Krishna Pandey
 
 import random
 import string
